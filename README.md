@@ -26,7 +26,7 @@ Des fiches de cours d'histoire de la philosophie (*philoso* - *fiche*).
 - [Le Confucianisme](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/8.%20Le%20Confucianisme.md)
 - [Le Taoïsme](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/9.%20Le%20Taoisme.md)
 - [Les physiciens antiques](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/10.%20Les%20physiciens%20antiques.md)
-- [Hippocrate](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/11.%20Hippocrate.md)h
+- [Hippocrate](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/11.%20Hippocrate.md)
 - [Les Sophistes](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/12.%20La%20Sophistique.md)
 
 ## 🏭 **La Philosophie Moderne**
