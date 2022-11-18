@@ -1,0 +1,13 @@
+Héraclite déclare que
+- l'univers est en constante évolution
+  - tout est transformé continuellement dans son contraire
+  - dans la société il y a des conflits entre différentes classes
+  - dans la nature il y a alternance entre des éléments contraires
+  - l'homme change constamment d'identité 
+ - cela semble chaotique et divisé aux ***dormeurs*** qui sont dans l'erreur puisque prisonniers des apparences sensibles
+ - il s'avère rationnel de se réveiller afin d'être capable de saisir la vérité : 
+   - le ***Logos*** compris comme
+     - ordre
+     - raison
+     - discours
+    - est une loi nécessaire de l'univers qui consiste en l'interdépendance des contraires
