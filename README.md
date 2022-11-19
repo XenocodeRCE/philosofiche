@@ -28,6 +28,8 @@ Des fiches de cours d'histoire de la philosophie (*philoso* - *fiche*).
 - [Les physiciens antiques](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/10.%20Les%20physiciens%20antiques.md)
 - [Hippocrate](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/11.%20Hippocrate.md)
 - [Les Sophistes](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/12.%20La%20Sophistique.md)
+- [Socrate](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/13.%20Socrate.md)
+- [Platon](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/14.%20Platon.md)
 
 ## 🏭 **La Philosophie Moderne**
 
