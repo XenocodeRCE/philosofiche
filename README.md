@@ -32,7 +32,7 @@ Des fiches de cours d'histoire de la philosophie (*philoso* - *fiche*).
 - [Platon](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/014.%20Platon.md)
 - [Aristote](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/015.%20Aristote.md)
 - [La logique](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/016.%20La%20Logique.md)
-- [Le scépticisme](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/017.%20Le%20scepticisme.md)
+- [Le scepticisme](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/017.%20Le%20scepticisme.md)
 - [Épicure](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/018.%20%C3%89picure.md)
 - [Le stoïcisme](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/019.%20Le%20sto%C3%AFcisme.md)
 - [La philosophie Romaine](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/020.%20La%20philosophie%20romaine.md)
@@ -46,7 +46,7 @@ Des fiches de cours d'histoire de la philosophie (*philoso* - *fiche*).
 
 
 ## 🏭 **La Philosophie Moderne**
-- [La culture humaniste de la Rennaissance](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/027.%20La%20culture%20Humaniste%20de%20la%20Rennaissance.md)
+- [La culture humaniste de la Renaissance](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/027.%20La%20culture%20Humaniste%20de%20la%20Rennaissance.md)
 - [Giordano Bruno](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/028.%20Giordano%20Bruno.md)
 - [Montaigne](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/029.%20Montaigne.md)
 - [Charron](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/030.%20Charron.md)
