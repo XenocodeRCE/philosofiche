@@ -46,5 +46,12 @@ Des fiches de cours d'histoire de la philosophie (*philoso* - *fiche*).
 
 
 ## 🏭 **La Philosophie Moderne**
+- [La culture humaniste de la Rennaissance](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/027.%20La%20culture%20Humaniste%20de%20la%20Rennaissance.md)
+- [Giordano Bruno](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/028.%20Giordano%20Bruno.md)
+- [Montaigne](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/029.%20Montaigne.md)
+- [Charron](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/030.%20Charron.md)
+- [Galilée](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/031.%20Galil%C3%A9e.md)
+- [Bacon](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/032.%20Bacon.md)
+- [Descartes](https://github.com/XenocodeRCE/philosofiche/blob/main/fiches/033.%20Descartes.md)
 
 ## 🤖 **La Philosophie Contemporaine**
