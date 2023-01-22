@@ -12,7 +12,7 @@ Des fiches de cours d'histoire de la philosophie (*philoso* - *fiche*).
 
 
 
-# 📚 Les fiches : 
+# 📚 Les fiches :
 
 
 ## 🛕 **La Philosophie Antique**
