@@ -10,6 +10,11 @@ Des fiches de cours d'histoire de la philosophie (*philoso* - *fiche*).
 
 <br>
 
+# 🐱‍🏍 Contributeurs : 
+<a href="https://github.com/XenocodeRCE/philosofiche/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=XenocodeRCE/philosofiche" />
+</a>
+
 
 
 # 📚 Les fiches :
